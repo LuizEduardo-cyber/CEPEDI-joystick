@@ -38,7 +38,7 @@ Esse projeto faz uso do joy stick que tem vomo função movimentar um quadrado n
 - quando movimentar o joy stick mudar a frequenica das tres cores ao mesmo tempo.
   
  ## 🔗 Link do Vídeo de Funcionamento:
-https://drive.google.com/file/d/1PT7HQALPs8PjhMQnsvt4F8gI7Q_qn7_d/view?usp=drive_link
+https://drive.google.com/file/d/16LY3JiG5ldO0mE2R5DKkTowm3ESER0Iq/view?usp=drive_link
 
  ## Contribuições 🤝
 
