@@ -27,7 +27,7 @@ Esse projeto faz uso do joy stick que tem vomo função movimentar um quadrado n
 ## Como Compilar e Executar ⚙️
 
 1. **Instale o SDK do Raspberry Pi Pico:** Siga as instruções no site oficial do Raspberry Pi.
-2. **Clone este repositório:** https://github.com/LuizEduardo-cyber/CEPEDI-servomotor.git`
+2. **Clone este repositório:** `https://github.com/LuizEduardo-cyber/CEPEDI-joystick.git`
 3. **Navegue até o diretório do projeto:** `cd CEPEDI-joystick`
 4. **Compile o projeto:** `cmake -B build && cmake --build build`
 5. **Copie para o Pico:** Copie o conteúdo da pasta `build` (gerada após a compilação) para o Raspberry Pi Pico. O programa iniciará automaticamente.
